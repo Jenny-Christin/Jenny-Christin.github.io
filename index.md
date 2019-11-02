@@ -1,3 +1,4 @@
-# Mein tolles Paper
+# Hintergrund
 
-![google](unbenannt.jpg)
+Die fortschreitende Digitalisierung und der Wertewandel in der Gesellschaft stellt Unternehmen derzeit vor große Herausforderungen. Es kristallisiert sich immer stärker heraus, dass insbesondere die jüngeren Generationen Y und Z nicht mehr wie bisher über klassische Werbekampagnen in TV, Radio oder Zeitschriften zielgruppenadäquat ansprechbar sind. Vielmehr rücken sogenannte Influencer, die die Werbebotschaften glaubwürdig übermitteln und zusätzlich für die Adressaten noch nutzenstiftende Informationen bereithalten, deutlich in den Fokus.
+Es stellt sich die Frage, ob und inwiefern sich Influencer nachhaltig als neues Instrument im Marketing-Mix von Unternehmen etablieren und inwieweit es sinnvoll für Unternehmen ist, eine solche Kooperation aufzubauen. Dieses Paper soll lediglich einen kurzen Überblick über diese Fragestellung geben. Hierfür wird zunächst der Begriff ‚Influencer‘ näher beleuchtet und erklärt. Daraufhin wird die Relevanz der Thematik für Unternehmen aufgezeigt. Anschließend werden ausgewählte Kriterien, die bei der Wahl des Influencers von Bedeutung sind und ausgewählte Vergütungsmodelle vorgestellt. Im Anschluss wird dargestellt, wie sich eine mögliche Erfolgsmessung gestalten kann. Abgerundet wird dieses Paper mit einem kritischen Fazit und Ausblick.
