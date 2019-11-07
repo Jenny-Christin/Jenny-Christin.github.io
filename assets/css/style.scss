@@ -8,7 +8,7 @@
 body {
   font-family: "Questrial", sans-serif;
   text-align: justify;
-  color: #81f7f3;
+  color: #2e2e2e;
 }
 
 h1,
@@ -16,9 +16,21 @@ h2,
 h3 {
   font-family: "Questrial", sans-serif;
   text-align: center;
-  color: #8a0829;
+  color: #ec7063;
 }
 
 .page-header {
   background: #2e2e2e;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #224466;
 }
