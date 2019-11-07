@@ -1,3 +1,5 @@
+![Influencer](01.jpg)
+
 # Hintergrund
 
 Die fortschreitende Digitalisierung und der Wertewandel in der Gesellschaft stellt Unternehmen derzeit vor große Herausforderungen. Es kristallisiert sich immer stärker heraus, dass insbesondere die jüngeren Generationen Y und Z nicht mehr wie bisher über klassische Werbekampagnen in TV, Radio oder Zeitschriften zielgruppenadäquat ansprechbar sind. Vielmehr rücken sogenannte Influencer, die die Werbebotschaften glaubwürdig übermitteln und zusätzlich für die Adressaten noch nutzenstiftende Informationen bereithalten, deutlich in den Fokus.
