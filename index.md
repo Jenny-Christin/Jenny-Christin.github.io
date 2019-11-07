@@ -4,16 +4,13 @@
 
 Die fortschreitende Digitalisierung und der Wertewandel in der Gesellschaft stellt Unternehmen derzeit vor große Herausforderungen. Es kristallisiert sich immer stärker heraus, dass insbesondere die jüngeren Generationen Y und Z nicht mehr wie bisher über klassische Werbekampagnen in TV, Radio oder Zeitschriften zielgruppenadäquat ansprechbar sind. Vielmehr rücken sogenannte Influencer, die die Werbebotschaften glaubwürdig übermitteln und zusätzlich für die Adressaten noch nutzenstiftende Informationen bereithalten, deutlich in den Fokus.
 
-Es stellt sich die Frage, ob und inwiefern sich Influencer nachhaltig als neues Instrument im Marketing-Mix von Unternehmen etablieren und inwieweit es sinnvoll für Unternehmen ist, eine solche Kooperation aufzubauen. Dieses Paper soll lediglich einen kurzen Überblick über diese Fragestellung geben. Hierfür wird zunächst der Begriff ‚Influencer‘ näher beleuchtet und erklärt. Daraufhin wird die Relevanz der Thematik für Unternehmen aufgezeigt. Anschließend werden ausgewählte Kriterien, die bei der Wahl des Influencers von Bedeutung sind und ausgewählte Vergütungsmodelle vorgestellt. Im Anschluss wird dargestellt, wie sich eine mögliche Erfolgsmessung gestalten kann. Abgerundet wird dieses Paper mit einem kritischen Fazit und Ausblick.
+Es stellt sich die Frage, ob und inwiefern sich Influencer nachhaltig als neues Instrument im Marketing-Mix von Unternehmen etablieren und inwieweit es sinnvoll für Unternehmen ist, eine solche Kooperation aufzubauen. Dieses Paper soll lediglich einen kurzen Überblick über diese Fragestellung geben. Hierfür wird zunächst der Begriff ‚Influencer‘ näher beleuchtet und erklärt. Daraufhin wird die Relevanz der Thematik für Unternehmen aufgezeigt. Anschließend werden ausgewählte Kriterien, die bei der Wahl des Influencers von Bedeutung sind und ausgewählte Vergütungsmodelle vorgestellt. Abgerundet wird dieses Paper mit einem kritischen Fazit und Ausblick.
 
 # Der Begriff ‚Influencer‘ im Zeitalter von Social Media
 
 Der Begriff ‚Influencer‘ stammt aus dem Englischen (to) influence ab und bedeutet zu Deutsch etwa Beeinflusser. Ein Influencer fungiert als eine Art Meinungsführer und hat respektive die Aufgabe, eine bestimmte Gruppe von Menschen in eine bestimmte Richtung zu lenken. Hierfür testet er die Qualität, die Anwendung und das Versprechen einzelner Produkte und dokumentiert dies ausführlich und öffentlich über Social Media. (Meermann Scott, 2010, S.133) In den meisten Fällen erhält der Influencer dafür eine Aufwandsentschädigung. (Deges, 2018, S. 95-100)
 
-Von ihren Followern – so werden Personen bezeichnet, die den jeweiligen Influencer abonniert haben – werden Influencer als klassische Konsumenten wahrgenommen. Durch die Vielzahl der repräsentierten Produkte wird ihnen zusätzlich ein Expertenstatus zugewiesen. (Kreutzer und Land, 2017, S. 209-213) Diese beiden Punkte tragen dazu bei, dass Influencer mit zunehmender Häufigkeit von Unternehmen eingesetzt werden, um für deren Produkte zu werben. Anders als bei herkömmlichen Werbemaßnahmen über TV, Radio, Print oder Plakate stellt ein Influencer die direkte Verbindung zwischen der Marke und dem Konsumenten her. Somit kann die Kommunikation zwischen dem Unternehmen nicht mehr – wie bisher klassisch der Fall – lediglich eindirektional, sondern auch mehrdirektional erfolgen. (Deges, 2018, S. 9) Die nachfolgende Grafik soll dies verdeutlichen:
-
-![Kommunikation](04.jpg)
-Abb. 1: Kommunikation und Interaktion mit Influencern, in Anlehnung an Deges, 2010, S.9.
+Von ihren Followern – so werden Personen bezeichnet, die den jeweiligen Influencer abonniert haben – werden Influencer als klassische Konsumenten wahrgenommen. Durch die Vielzahl der repräsentierten Produkte wird ihnen zusätzlich ein Expertenstatus zugewiesen. (Kreutzer und Land, 2017, S. 209-213) Diese beiden Punkte tragen dazu bei, dass Influencer mit zunehmender Häufigkeit von Unternehmen eingesetzt werden, um für deren Produkte zu werben. Anders als bei herkömmlichen Werbemaßnahmen über TV, Radio, Print oder Plakate stellt ein Influencer die direkte Verbindung zwischen der Marke und dem Konsumenten her. Somit kann die Kommunikation zwischen dem Unternehmen nicht mehr – wie bisher klassisch der Fall – lediglich eindirektional, sondern auch mehrdirektional erfolgen. (Deges, 2018, S. 9) D
 
 # Influencer Marketing als neuer Marketingansatz im Marketing-Mix
 
@@ -33,10 +30,7 @@ Bei der Suche eines glaubwürdigen Influencers mit einer positiven Ausstrahlung 
 
 Als quantitative Größe ist die absolute Reichweite ein geeigneter Indikator. (Hettler, 2010, S. 224) Hierbei wird in erster Linie Wert auf die Anzahl der Follower und die Wachstumsrate der Reichweite gelegt. Eine große Reichweite des Influencers allein ist jedoch nur dann aussagekräftig, wenn der Influencer zusätzlich über eine große Relevanz verfügt, d. h. die anvisierte Zielgruppe des Unternehmens sollte in der Community des Influencers besonders stark repräsentiert sein und der Influencer sollte mit seiner Persönlichkeit zu der Marke und dem Produkt passen. Neben der großen Reichweite und einer hohen Relevanz ist es zusätzlich von großer Bedeutung, dass eine hohe Resonanz erzeugt wird, d. h. es sollte eine intensive Auseinandersetzung der Community mit den Inhalten stattfinden. (Hettler, 2010, S. 118) Anhaltspunkte hierbei sind beispielsweise das Verhältnis der Likes zu der gesamten Anzahl der Follower oder die Anzahl der Kommentare je Post.
 
-Die größte Wirkungskraft entfaltet das Influencer Marketing, wenn die drei genannten Kriterien Reichweite, Relevanz und Resonanz möglichst gleichmäßig und ausgewogen repräsentiert sind. (Deges, 2018, S. 66) In der folgenden Darstellung sind die drei großen Auswahlkriterien mit möglichen Anhaltspunkten aufgezeigt:
-
-![Auswahlkriterien](03.jpg)
-Abb. 2: Kriterienkatalog eines Influencer, in Anlehnung an Deges, 2010, S. 67.
+Die größte Wirkungskraft entfaltet das Influencer Marketing, wenn die drei genannten Kriterien Reichweite, Relevanz und Resonanz möglichst gleichmäßig und ausgewogen repräsentiert sind. (Deges, 2018, S. 66)
 
 ## Quantitative und qualitative Vergütungsmodelle
 
@@ -45,15 +39,6 @@ Durch die zunehmende Professionalisierung ist eine rein intrinsische Motivation 
 Die monetäre Kompensation eines Influencers kann zum einen anhand einer Pauschale, beispielsweise einer Pauschale pro Post oder einer Pauschale für den Zeit- und Materialaufwand erfolgen. Diese Pauschalen richten sich häufig nach der Anzahl der Follower. Aus Sicht eines Unternehmens ist eine Vergütung nach dem Tausender-Kontakt-Preis, bei dem der Influencer pro 1.000 Follower eine bestimmte Geldsumme erhält, jedoch weniger von Vorteil, da diese oft manipulativ künstlich nach oben getrieben werden können. (Deges, 2018, S. 98) Zum anderen ist es eine gängige Möglichkeit, dass die Influencer an dem Erfolg ihrer eigenen Werbung beteiligt werden. Das heißt, sie erhalten entweder eine Prämie pro Leadgenerierung oder eine Umsatzbeteiligung. (Deges, 2018, S. 96f.)
 
 Kleine bzw. weniger einflussreiche Influencer werden über materielle und immaterielle Incentivierung vergütet. Sie erhalten als Gegenleistung zum Beispiel exklusive Inhalte und Informationen zur Erstverwertung, eine Bereitstellung von Goodies, andere Geschenke oder teilweise ein Jobangebot bzw. eine Jobvermittlung. (Deges, 2018, S. 98f.)
-
-## Ausgewählte Größen der Erfolgsmessung des Influencer Marketings
-
-Im Nachgang einer Produktplatzierung durch einen Influencer ist die Erfolgsmessung für Unternehmen besonders wichtig. Das Controlling soll sowohl die Effizienz und Effektivität des Ressourceneinsatzes als auch die Steuerung der Ressourcenallokation visualisieren. (Homburg, 2017, S.1212) Diese Analyse kann sowohl quantitativ als auch qualitativ stattfinden. Bei einer qualitativen Analyse können beispielsweise die einzelnen Kommentare unter den Posts ausgewertet werden.
-
-Die nachfolgende Übersicht zeigt ausgewählte Kennzahlen zur Bestimmung der quantitativen Erfolgsmessung:
-
-![Kennzahlen](02.jpg)
-Abb. 3: Quantitative Kennzahlen zur Erfolgsmessung, in Anlehnung an Deges, 2010, S. 121.
 
 # Fazit und Ausblick
 
