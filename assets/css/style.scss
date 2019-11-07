@@ -3,21 +3,22 @@
 
 @import "{{site.theme}}";
 
-@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Questrial&display=swap");
 
 body {
-    font-family: 'Questrial', sans-serif;
-    text-align: justify;
-    Color: #81F7F3;
+  font-family: "Questrial", sans-serif;
+  text-align: justify;
+  color: #81f7f3;
 }
-
 
 h1,
 h2,
-h3 {font-family:'Questrial'}, sans-serif;
-    text-align: center;
-    Color: #8A0829;
+h3 {
+  font-family: "Questrial", sans-serif;
+  text-align: center;
+  color: #8a0829;
 }
 
 .page-header {
-    background: #2E2E2E}
+  background: #2e2e2e;
+}
