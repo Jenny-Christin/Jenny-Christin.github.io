@@ -49,3 +49,27 @@ Im Nachgang einer Produktplatzierung durch einen Influencer ist die Erfolgsmessu
 Influencer Marketing ist auf einem guten Weg, sich in den Marketing-Mix von Unternehmen zu etablieren. Die Professionalisierung der Szene schreitet immer weiter voran, so dass es für Unternehmen nachhaltig sinnvoll ist in diese Form des Marketings zu investieren und mit Influencern Kooperationen einzugehen. Nichtsdestotrotz sollte der aktuelle Hype kritisch betrachtet werden, da es noch keine Studie bezüglich einer langfristigen Wirkung gibt. Hieraus ergeben sich viele neue Forschungsansätze.
 
 Zukünftig könnte es zum Problem werden, dass Influencer sich immer weiter emanzipieren, selbst zur Marke werden und so das eigentlich zu werbende Produkt in den Hintergrund rückt. Generell ist davon auszugehen, dass zukünftig die Popularität eines Influencers nicht mehr per Zufall entstehen wird, sondern hier bereits heute gezielte Karrieren angestrebt werden. Für Unternehmen ist es daher wichtig einen Influencer zu finden, welcher auf dem schmalen Grat zwischen Neutralität und dem Streben nach Monetarisierung und Popularität die Balance hält. Mit einem solchen Influencer wird es sich für ein Unternehmen lohnen, eine nachhaltige Kooperation aufzubauen und diesen – neben den herkömmlichen Werbekampagnen – in den Marketing-Mix zu integrieren.
+
+# Literaturverzeichnis
+
+Bruhn, M. (2011). Unternehmens- und Marketingkommunikation. Handbuch für ein integriertes Kommunikationsmanagement (2. Auflage). München: Vahlen.
+
+Bundesverband Digitale Wirtschaft (BVDW) e.V. (2018). Umfrage zur Nutzung von Influencer Marketing. Zugriff am 10.10.2019 unter https://www.bvdw.org/fileadmin/user_upload/BVDW_Umfrage_Influencer_Marketing__112018.pdf
+
+Deges, F. (2018). Quick Guide Influencer Marketing. Wie Sie durch Multiplikatoren mehr Reichweite und Umsatz erzielen. Wiesbaden: Gabler.
+
+Hettler, U. (2010). Social Media Marketing. Marketing mit Blogs, Sozialen Netzwerken und weiteren Anwendungen des Web 2.0. München: Oldernburg.
+
+Homburg, C. (2017). Marketingmanagement. Strategie – Instrumente – Umsetzung – Unternehmensführung (6. Auflage). Wiesbaden: Gabler.
+
+Kreutzer, R. und Land, K-H. (2017). Digitale Markenführung. Digital Branding im Zeitalter des Darwinismus. Das Think!Book. Wiesbaden: Gabler.
+
+Kroeber-Riel, W. und Gröppel-Klein, A. (2013). Konsumentenverhalten (10. Auflage). München: Vahlen.
+
+Lis, B. und Korchmar, S. (2013). Digitales Empfehlungsmarketing. Konzeption, Theorien und Determinanten zur Glaubwürdigkeit des Electronic Word-of-Mouth (EWOM). Wiesbaden: Gabler.
+
+Meermann Scott, D. (2010). Die neuen Marketing- und PR-Regeln im Web 2.0. Wie Sie im Social Web News Releases, Blogs, Podcasting und virales Marketing nutzen, um Ihre Kunden zu erreichen (2. Auflage). Heidelberg: Verlagsgruppe Hüthig-Jehle-Rehm.
+
+Nielsen (2015). Die beste Werbung machen Freunde und Bekannte – Deutsche Vertrauen auf persönliche Empfehlungen. Zugriff am 11.10.2019 unter https://www.nielsen.com/de/de/insights/report/2015/trust-in-advertising.html.
+
+Trommsdorf, V. und Teichert, T. (2011). Konsumentenverhalten (8. Auflage). Stuttgart: Kohlhammer.
